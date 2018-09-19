@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2018-09-18**
+## Status Update: **2018-09-19**
 
 Status | Canal | URL
 --- | --- | ---
@@ -46,7 +46,7 @@ Status | Canal | URL
 :red_circle:|Telecinco|https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 :red_circle:|Telecinco HD|http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
 :green_heart:|La Sexta|https://livepull1.secure.footprint.net/lasextampp/master.m3u8
-:green_heart:|A3Series|https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
+:red_circle:|A3Series|https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
 :red_circle:|Nova|https://atresplayers-i.akamaized.net/geonovampp/bitrate_3.m3u8
 :red_circle:|Neox|https://atresplayers-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8
 :red_circle:|Mega|https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8
@@ -91,7 +91,7 @@ Status | Canal | URL
 :green_heart:|Navarra TV - Navarra (NC)|http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 :red_circle:|Vaughan TV - Navarra (NC)|http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
 :green_heart:|Eitb - P.Vasco (PV)|http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-:green_heart:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
+:red_circle:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
 :red_circle:|Mediterraneo TV - C.Valenciana (VC)|http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8
 :green_heart:|RTV Ceuta - Ceuta (CE)|http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 :red_circle:|Ceuta TV - Ceuta (CE)|http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
@@ -110,7 +110,7 @@ Status | Canal | URL
 :red_circle:|Intereconomia - Madrid (MD)|http://edge3.adnstream.com:81/hls/intereconomia.m3u8
 :red_circle:|Ribera TV - Valencia (VC)|http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
 :red_circle:|Televisió Badalona|http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
-:red_circle:|Televisió de Girona|http://ventdelnord.tv:8080/girona/directe.m3u8
+:green_heart:|Televisió de Girona|http://ventdelnord.tv:8080/girona/directe.m3u8
 :red_circle:|Tarragona TV|http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
 :red_circle:|El Punt Avui TV|http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
 :green_heart:|Terrassa TV|http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
