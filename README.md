@@ -34,16 +34,16 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2018-12-10**
+## Status Update: **2018-12-11**
 
 Status | Canal | URL
 --- | --- | ---
 :red_circle:|La 1|http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=1500000.m3u8
 :green_heart:|La 2|http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 :red_circle:|Antena 3|https://atresplayerp-i.akamaized.net/antena3mpp/bitrate_3.m3u8
-:red_circle:|Cuatro|https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
+:green_heart:|Cuatro|https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_1.m3u8
 :red_circle:|Cuatro HD|http://cuatro-mediaset-esp-live.secure.footprint.net/mediaset/cuatro/stream2/streamPlaylist.m3u8
-:red_circle:|Telecinco|https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
+:green_heart:|Telecinco|https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 :red_circle:|Telecinco HD|http://telecinco-mediaset-esp-live.secure.footprint.net/mediaset/telecinco/stream2/streamPlaylist.m3u8
 :red_circle:|La Sexta|https://livepull1.secure.footprint.net/lasextampp/master.m3u8
 :red_circle:|A3Series|https://a3series-pull2a-a3player.secure.footprint.net/a3series/master.m3u8
@@ -110,7 +110,7 @@ Status | Canal | URL
 :red_circle:|Intereconomia - Madrid (MD)|http://edge3.adnstream.com:81/hls/intereconomia.m3u8
 :red_circle:|Ribera TV - Valencia (VC)|http://orion.comelson.es/ribera/livestream/chunklist_w476320974.m3u8
 :red_circle:|Televisió Badalona|http://cdnlive.shooowit.net/badalonatvlive/smil:live.smil/playlist.m3u8
-:red_circle:|Televisió de Girona|http://ventdelnord.tv:8080/girona/directe.m3u8
+:green_heart:|Televisió de Girona|http://ventdelnord.tv:8080/girona/directe.m3u8
 :red_circle:|Tarragona TV|http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
 :red_circle:|El Punt Avui TV|http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
 :green_heart:|Terrassa TV|http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
