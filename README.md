@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2018-12-19**
+## Status Update: **2018-12-20**
 
 Status | Canal | URL
 --- | --- | ---
