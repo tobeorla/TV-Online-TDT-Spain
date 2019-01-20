@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2019-01-19**
+## Status Update: **2019-01-20**
 
 Status | Canal | URL
 --- | --- | ---
@@ -113,7 +113,7 @@ Status | Canal | URL
 :green_heart:|Televisió de Girona|http://ventdelnord.tv:8080/girona/directe.m3u8
 :red_circle:|Tarragona TV|http://cdns724ste1010.shooowit.net/tac12live/amlst:live/playlist.m3u8
 :red_circle:|El Punt Avui TV|http://cdns724ste1010.shooowit.net/puntavuitvlive/smil:live.smil/playlist.m3u8
-:green_heart:|Terrassa TV|http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
+:red_circle:|Terrassa TV|http://173.212.214.184:1935/terrassaweb/terrassaweb/playlist.m3u8
 :green_heart:|Sevilla F.C.|http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
 :red_circle:|BETISTV|http://rbetis-hls.flumotion.com/rbetis/live/chunklist.m3u8
 :red_circle:|Nasa TV - EEUU|http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
