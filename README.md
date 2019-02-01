@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2019-01-31**
+## Status Update: **2019-02-01**
 
 Status | Canal | URL
 --- | --- | ---
@@ -50,7 +50,7 @@ Status | Canal | URL
 :red_circle:|Nova|https://atresplayers-i.akamaized.net/geonovampp/bitrate_3.m3u8
 :red_circle:|Neox|https://atresplayers-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8
 :red_circle:|Mega|https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8
-:green_heart:|Be Mad TV|https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+:red_circle:|Be Mad TV|https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 :green_heart:|Divinity|https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 :green_heart:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 :green_heart:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
@@ -99,7 +99,7 @@ Status | Canal | URL
 :red_circle:|Onda Algeciras TV - Cádiz (AN)|http://cls.provideo.es/algecirastv/livestream/master.m3u8
 :red_circle:|Canal Costa - Huelva (AN)|http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 :red_circle:|Huesca TV - Huesca (AR)|http://teledifusion.tv:1935/dia/dia/playlist.m3u8
-:green_heart:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+:red_circle:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 :red_circle:|Tindaya TV - Las Palmas G.C. (CN)|http://188.165.135.22/tindayatv/livestream/playlist.m3u8
 :red_circle:|Popular TV - Cantabria (CB)|http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 :red_circle:|Diocesano TV - Toledo (CM)|http://178.32.53.254/rtvd/livestream/playlist.m3u8
