@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2019-02-27**
+## Status Update: **2019-02-28**
 
 Status | Canal | URL
 --- | --- | ---
@@ -99,7 +99,7 @@ Status | Canal | URL
 :red_circle:|Onda Algeciras TV - Cádiz (AN)|http://cls.provideo.es/algecirastv/livestream/master.m3u8
 :red_circle:|Canal Costa - Huelva (AN)|http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 :red_circle:|Huesca TV - Huesca (AR)|http://teledifusion.tv:1935/dia/dia/playlist.m3u8
-:green_heart:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+:red_circle:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 :red_circle:|Tindaya TV - Las Palmas G.C. (CN)|http://188.165.135.22/tindayatv/livestream/playlist.m3u8
 :red_circle:|Popular TV - Cantabria (CB)|http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 :red_circle:|Diocesano TV - Toledo (CM)|http://178.32.53.254/rtvd/livestream/playlist.m3u8
