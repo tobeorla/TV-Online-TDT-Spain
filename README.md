@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2019-03-01**
+## Status Update: **2019-03-02**
 
 Status | Canal | URL
 --- | --- | ---
@@ -59,7 +59,7 @@ Status | Canal | URL
 :red_circle:|24h|http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 :red_circle:|Teledeporte|http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 :red_circle:|Teledeporte HD|http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8
-:green_heart:|TVE 60 aniversario|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
+:red_circle:|TVE 60 aniversario|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
 :green_heart:|13TV|http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 :red_circle:|DMax|http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA
 :green_heart:|FDF|https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
@@ -91,7 +91,7 @@ Status | Canal | URL
 :green_heart:|Navarra TV - Navarra (NC)|http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8
 :red_circle:|Vaughan TV - Navarra (NC)|http://vaughantv.streaming-pro.com:1935/live/vaughantv/playlist.m3u8
 :green_heart:|Eitb - P.Vasco (PV)|http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-:green_heart:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
+:red_circle:|TVR 10 - La Rioja (RI)|http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8
 :red_circle:|Mediterraneo TV - C.Valenciana (VC)|http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/mobile/playlist.m3u8?idLive=021&referer=aHR0cDovL3RlbGVhbWUuY29tL3R2bWVkaXRlcnJhbmVvZW5kaXJlY3RvLw==&zz=m3u8
 :green_heart:|RTV Ceuta - Ceuta (CE)|http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
 :red_circle:|Ceuta TV - Ceuta (CE)|http://cls.todostreaming.eu/anguloce/livestream/chunklist.m3u8
@@ -99,7 +99,7 @@ Status | Canal | URL
 :red_circle:|Onda Algeciras TV - Cádiz (AN)|http://cls.provideo.es/algecirastv/livestream/master.m3u8
 :red_circle:|Canal Costa - Huelva (AN)|http://cls2.todostreaming.eu/azahara/IKbtqOuj/playlist.m3u8
 :red_circle:|Huesca TV - Huesca (AR)|http://teledifusion.tv:1935/dia/dia/playlist.m3u8
-:red_circle:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
+:green_heart:|TV Ibiza-Formentera - Baleares(IB)|http://server10.streaming-pro.com:1937/live/teftvlive/playlist.m3u8
 :red_circle:|Tindaya TV - Las Palmas G.C. (CN)|http://188.165.135.22/tindayatv/livestream/playlist.m3u8
 :red_circle:|Popular TV - Cantabria (CB)|http://cls.todostreaming.eu/ptvcantabria/livestream/chunklist.m3u8
 :red_circle:|Diocesano TV - Toledo (CM)|http://178.32.53.254/rtvd/livestream/playlist.m3u8
