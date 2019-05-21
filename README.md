@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2019-05-20**
+## Status Update: **2019-05-21**
 
 Status | Canal | URL
 --- | --- | ---
@@ -59,7 +59,7 @@ Status | Canal | URL
 :red_circle:|24h|http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 :red_circle:|Teledeporte|http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@39732/master.m3u8
 :red_circle:|Teledeporte HD|http://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@39598/master.m3u8
-:green_heart:|TVE 60 aniversario|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
+:red_circle:|TVE 60 aniversario|http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-irtve24lv3aomgl0/_definst_/live.m3u8
 :green_heart:|13TV|http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
 :red_circle:|DMax|http://zba2-2-hls5-live.zahs.tv/ES_veo/master.m3u8?z32=OVZWK4S7NFSD2MJRGYZTCNJZHETG22LOOJQXIZJ5GATG2YLYOJQXIZJ5GE2TAMBGONUWOPJUMM4DAYRTGRQTSYJZGA4TEOLDMMYWMNRRGU4TEYTCGQ4TGNTEG4TGG43JMQ6TCNBZG5CTKNKFGBBUGRRTGQZTQLJTHE3TQRBYHA4UERBXIU3DQNCBEZUW42LUNFQWY4TBORST2MA
 :green_heart:|FDF|https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_1.m3u8
@@ -80,7 +80,7 @@ Status | Canal | URL
 :green_heart:|324 - Cataluña (CT)|http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
 :green_heart:|C33 - Cataluña (CT)|http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:c33_web/playlist.m3u8
 :green_heart:|8TV - Cataluña (CT)|http://iphone.radiocat.net:1935/livereflector/8aldia.stream/playlist.m3u8
-:red_circle:|C. Extremadura - Extramadura (EX)|http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
+:green_heart:|C. Extremadura - Extramadura (EX)|http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8
 :green_heart:|TVG Europa - Galicia (GA)|http://europa-crtvg.flumotion.com/playlist.m3u8
 :green_heart:|TVG America - Galicia (GA)|http://america-crtvg.flumotion.com/playlist.m3u8
 :red_circle:|7 RM - Murcia (MC)|http://hls0.80670-live0.dna.qbrick.com/80670-live0/murciatv/playlist.m3u8
