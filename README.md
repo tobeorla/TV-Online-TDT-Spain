@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2019-09-26**
+## Status Update: **2019-09-27**
 
 Status | Canal | URL
 --- | --- | ---
@@ -52,7 +52,7 @@ Status | Canal | URL
 :red_circle:|Mega|https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8
 :green_heart:|Be Mad TV|https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 :green_heart:|Divinity|https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
-:red_circle:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+:green_heart:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 :green_heart:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
 :red_circle:|Disney Channel|http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/protocol/http/uiConfId/27176231/a.m3u8?referrer=aHR0cDovL2Rpc25leWNoYW5uZWwuZXM=&playSessionId=8134da47-6b06-6113-0fde-2079fb2dcca0
 :red_circle:|Disney Channel|https://eslivestream-lh.akamaihd.net/i/live_1@318671/master.m3u8
