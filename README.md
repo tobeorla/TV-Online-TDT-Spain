@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2019-10-07**
+## Status Update: **2019-10-08**
 
 Status | Canal | URL
 --- | --- | ---
@@ -50,7 +50,7 @@ Status | Canal | URL
 :red_circle:|Nova|https://atresplayers-i.akamaized.net/geonovampp/bitrate_3.m3u8
 :red_circle:|Neox|https://atresplayers-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8
 :red_circle:|Mega|https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8
-:red_circle:|Be Mad TV|https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+:green_heart:|Be Mad TV|https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 :green_heart:|Divinity|https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 :green_heart:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 :green_heart:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
