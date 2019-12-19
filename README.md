@@ -34,7 +34,7 @@ Status| Descripción
 :green_heart:|OK
 :red_circle:|Link no accesible
 
-## Status Update: **2019-12-18**
+## Status Update: **2019-12-19**
 
 Status | Canal | URL
 --- | --- | ---
@@ -50,7 +50,7 @@ Status | Canal | URL
 :red_circle:|Nova|https://atresplayers-i.akamaized.net/geonovampp/bitrate_3.m3u8
 :red_circle:|Neox|https://atresplayers-i.akamaized.net/geoneoxmpp/bitrate_3.m3u8
 :red_circle:|Mega|https://atresplayers-i.akamaized.net/geomegampp/bitrate_3.m3u8
-:green_heart:|Be Mad TV|https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+:red_circle:|Be Mad TV|https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
 :green_heart:|Divinity|https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_1.m3u8
 :green_heart:|Real Madrid TV|http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 :green_heart:|Paramount Channel|http://paramount.live.flumotion.com/live/playlist.m3u8
@@ -120,7 +120,7 @@ Status | Canal | URL
 :red_circle:|Cordoba Internacional|http://streaming.enetres.net/69BF7C8664934222BA3F58530449B8CE021/mobile/playlist.m3u8
 :red_circle:|HispanTV|http://107.189.40.49:1935/live/hispantv/playlist.m3u8
 :red_circle:|Russia Today Español|https://secure-streams.akamaized.net/rt-esp/index.m3u8
-:red_circle:|À Punt - C. Valenciana (VC)|https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
+:green_heart:|À Punt - C. Valenciana (VC)|https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae_6.m3u8
 :red_circle:|Boing|https://mdslivehls-i.akamaihd.net/hls/live/571647/boing/bitrate_1.m3u8
 :green_heart:|Fox News Talk|https://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 :green_heart:|ABC News Live|https://abclive1-lh.akamaihd.net/i/abc_live10@420897/master.m3u8
